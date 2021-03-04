@@ -1,0 +1,6 @@
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\Perevorotchik.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
