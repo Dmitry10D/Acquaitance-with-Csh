@@ -1,0 +1,7 @@
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin\Debug\Sea Battle.exe.config
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin\Debug\Sea Battle.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\bin\Debug\Sea Battle.pdb
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.csprojAssemblyReference.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.csproj.CoreCompileInputs.cache
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.exe
+C:\Users\Desyatov_D\source\repos\ConsoleApp3\Sea Battle\obj\Debug\Sea Battle.pdb
